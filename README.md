@@ -85,6 +85,7 @@
 - [**Revolution Wi-Fi Capacity Planner**](http://www.revolutionwifi.net/capacity-planner/) *калькулятор ёмкости: сколько точек доступа необходимо при заданном ТЗ*
 - [**EverythingRF calculators**](https://www.everythingrf.com/rf-calculators) *FSPL, зона Френеля, бюджет радиолинка и прочие калькуляторы*
 - [**The WiFi AirTime Calculator**](https://gjermundraaen.com/thewifiairtimecalculator/) *пугающий, невероятно наглядный и удобный калькулятор Airtime от Gjermund Raaen*
+- [**ISP Design Center**](https://ispdesign.ui.com/) *Калькулятор радиолинков с учётом высот от известного производителя оборудования Ubiquiti*
 
 ### 4. Инфографика
 - [**EMANIM Wave Visualization**](https://emanim.szialab.org/index.html) *наглядная визуализация распространения электромагнитных волн*
